@@ -1,3 +1,8 @@
+Give permissions to respective files...
+Solution:
+sudo chmod 666 /var/run/docker.sock
+
+
 https://kimsereyblog.blogspot.com/2018/09/deploy-asp-net-core-application-on.html
 
 
